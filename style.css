@@ -1,0 +1,36 @@
+.face {
+   width:200px;
+    border-radius:50%;
+}
+#name {
+    background: linear-gradient(#bff2e7 0%,#ffa8e6 100%);
+    padding-top:50px;
+}
+.line {
+    height:10px;
+    background: midnightblue;
+    width:100px;
+}
+h1 {
+    font-family: san-serif;
+    font-size:100;
+}
+p {
+    font-family:cedarville cursive;
+}
+.menu {
+    position:absolute;
+    background:linear-gradient(#ad394d 0%,#666262 100%);
+    width:100%;
+    margin-top:0px;
+}
+.links {
+    display:inline;
+    padding-right:20px;
+    padding-left:20px;
+    font-size:20px;   
+}
+.links:hover {
+    background-color: coral;
+    font-size:25px;
+}
